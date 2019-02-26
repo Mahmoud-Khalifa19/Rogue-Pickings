@@ -1,6 +1,6 @@
 # Rogue Pickings Project
 
-This project is a sample mock up website which is for a fictional person named Jubilee Austen. It's a simple one page website using HTML & CSS no JavaScript has been used.
+This project is a static website which is for a food truck business a design comp was given to convert the PSD design into code using HTML & CSS.
 
 
 # Built With
@@ -12,7 +12,7 @@ This project is a sample mock up website which is for a fictional person named J
 
 # Personal Learnings
 
-The purpose of this project was to convert a adobe photoshop design into a website using the basics of HTML & CSS. It was challenging at first but to overcome a project like this its important to plan before coding otherwise it would be difficult to breakdown the sections.
+The purpose of this project was to convert a PSD design into a website using HTML & CSS. The key outcome I can learn from building this project is the problem solving skills I learnt because building the project from scratch can be challenging and time consuming but with persistance and dedication i managed to complete it.  
 
 
 ## Link
