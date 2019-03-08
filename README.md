@@ -8,7 +8,7 @@ This project is a static website which is for a food truck business a design com
 2. CSS
 
 # Tools
-1. Adobe Photoshop
+* Adobe Photoshop
 
 # Personal Learnings
 
